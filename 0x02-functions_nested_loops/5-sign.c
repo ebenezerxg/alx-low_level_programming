@@ -6,7 +6,7 @@
  * Retur: 1 for positive num, -1 for negative num or zero for anyting else
  */
 
-int print_sign(int n)
+int print_sign (int n)
 {
 	if (n > 0)
 	{
